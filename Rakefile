@@ -3,4 +3,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Week4hw::Application.load_tasks
+Week4Homework::Application.load_tasks

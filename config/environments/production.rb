@@ -1,4 +1,4 @@
-Week4hw::Application.configure do
+Week4Homework::Application.configure do
   # Settings specified here will take precedence over those in config/application.rb.
 
   # Code is not reloaded between requests.

@@ -43,7 +43,3 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
-
-gem "quiet_assets", group: "development"
-gem "starter_generators", group: "development"
-gem "better_errors", group: "development"
